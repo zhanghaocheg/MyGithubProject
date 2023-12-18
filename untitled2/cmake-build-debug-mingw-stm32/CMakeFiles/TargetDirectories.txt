@@ -1,0 +1,3 @@
+C:/Users/52716/CLionProjects/untitled2/cmake-build-debug-mingw-stm32/CMakeFiles/untitled2.elf.dir
+C:/Users/52716/CLionProjects/untitled2/cmake-build-debug-mingw-stm32/CMakeFiles/edit_cache.dir
+C:/Users/52716/CLionProjects/untitled2/cmake-build-debug-mingw-stm32/CMakeFiles/rebuild_cache.dir
